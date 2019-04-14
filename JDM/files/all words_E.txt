@@ -1,0 +1,73 @@
+﻿Help,Help
+Help,Help
+Download,Download
+Sort by,Sort by
+about,about
+New Download,New Download
+Resume,Resume
+Pause,Pause
+Cancel,Cancel
+Remove,Remove
+Open,Open
+Setting,Setting
+Exit,Exit
+Name(Ascending),Name(Ascending)
+Name(Descending),Name(Descending)
+Size(Ascending),Size(Ascending)
+Size(Descending),Size(Descending)
+Date(Ascending),Date(Ascending)
+Date(Descending),Date(Descending)
+Remove from queue,Remove from queue
+Move up,Move up
+Move down,Move down
+Start Queue,Start Queue
+Add to queue,Add to queue
+Search,Search
+Processing,Processing
+Completed,Completed
+Queue,Queue
+All downloads,All downloads
+Look and feel,Look and feel
+infinite,infinite
+finite,finite
+number of downloads at same time,number of downloads at same time
+Path,Path
+Brows,Brows
+Unauthorized sites list,Unauthorized sites list
+Add,Add
+Remove,Remove
+Save,Save
+Number of download at same time can not be less than one!,Number of download at same time can not be less than one!
+Number of download at same time is less than number of downloads is processing!,Number of download at same time is less than number of downloads is processing!
+Error,Error
+JDM could not save your change!,JDM could not save your change!
+Are you sure to cancel download?,Are you sure to cancel download?
+Name,Name
+Size,Size
+Downloaded,Downloaded
+Speed,Speed
+URL,URL
+Save To,Save To
+Date,Date
+JDM could not find file of your queue!,JDM could not find file of your queue!
+JDM could not find file of your all downloads!,JDM could not find file of your all downloads!
+JDM could not find file of your saved setting!,JDM could not find file of your saved setting!
+You can not open file before Before completing downloading!,You can not open file before Before completing downloading!
+select look and feel,select look and feel
+English,English
+Pension,Pension
+More,More
+New download,New download
+For Change language you should run JDM again!,For Change language you should run JDM again!
+Download now,Download now
+Download in queue,Download in queue
+OK,OK
+You do not enter any URL!,You do not enter any URL!
+You entered a unauthorized URL!,You entered a unauthorized URL!
+Number of download at same time is less than number of downloads is processing!,Number of download at same time is less than number of downloads is processing!
+select language,select language
+General,General
+You have a download with this name! Change name.,You have a download with this name! Change name.
+there is a problem in connection!,there is a problem in connection!
+Number of downloads at same time is more than you select in setting!,Number of downloads at same time is more than you select in setting!
+Export,Export

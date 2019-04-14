@@ -1,0 +1,69 @@
+﻿Help,کمک
+Help,کمک
+Download,دانلود
+Sort by,مرتب سازي       
+about,درباره
+New Download,دانلود جديد
+Resume,ادامه
+Pause,توقف
+Cancel,لغو
+Remove,حذف
+Open,باز کردن
+Setting,تنظيمات
+Exit,خروج
+Name(Ascending),نام(صعودي)
+Name(Descending),نام(نزولي)
+Size(Ascending),حجم(صعودي)
+Size(Descending),حجم(نزولي)
+Date(Ascending),زمان(صعودي)
+Date(Descending),زمان(نزولي)
+Remove from queue,حذف از صف
+Move up,بالا
+Move down,پايين
+Start Queue,شروع صف
+Add to queue,اضافه به صف
+Search,جست و جو
+Processing,درحال دانلود
+Completed,کامل شده
+Queue,صف
+All downloads,همه دانلود ها
+Look and feel,ظاهر برنامه
+infinite,نامحدود
+finite,محدود
+number of downloads at same time,تعداد دانلود هاي همزمان
+Path,مسير
+Brows,Brows
+Unauthorized sites list,ليست سايت هاي غير مجاز
+Add,افزودن
+Remove,حذف
+Save,ذخيره
+Number of download at same time can not be less than one!,تعداد دانلودهاي همزمان نمي تواند از يک کمتر باشد!
+Number of download at same time is less than number of downloads is processing!,تعداد دانلودهاي همزمان نمي تواند از مقداد تعيين شده در تنظيمات کمتر باشد!
+Error,خطا
+JDM could not save your change!,برنامه نمي تواند تغييرات را ذخيره کند!
+Are you sure to cancel download?,آيا دانلود لغو شود؟
+Name,نام
+Size,حجم
+Downloaded,دانلود شده
+Speed,سرعت
+URL,لينک دانلود
+Save To,دانلود شده در
+Date,زمان
+JDM could not find file of your queue!,برنامه نمي تواند فايل صف را پيدا کند!
+JDM could not find file of your all downloads!,برنامه نمي تواند فايل همه دانلود ها را پيدا کند!
+JDM could not find file of your saved setting!,برنامه نمي تواند فايل تنظيمات را پيدا کند!
+You can not open file before Before completing downloading!,قبل ز کامل شدن دانلود قادر به باز کردن فایل نیستید!
+select look and feel,ظاهر مورد نظر را انتخاب کنید
+English,انگلیسی
+Pension,فارسی
+More,بیشتر
+New download,دانلود جدید
+For Change language you should run JDM again!,برای تغییر زبان برنامه باید برنامه را دوباره اجرا کنید!
+Download now,دانلود هم اکنون
+Download in queue,دانلود در صف
+OK,قبول
+You do not enter any URL!,لینک دانلودی وارد نشده است!
+You entered a unauthorized URL!,ادرس وارد شده در لیست آدرس های غیر مجاز قرار دارد!
+Number of download at same time is less than number of downloads is processing!,تعداد دانلودهاي همزمان نمي تواند از مقداد تعيين شده در تنظيمات کمتر باشد!
+select language,زبان را انتخاب کنید
+General,اصلی
