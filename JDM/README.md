@@ -1,5 +1,6 @@
 # Java Download Manager (JDM)
 Download Manager program made in Java language for Windows.
+
 Some features of this project:
 1. Very beautiful and user-friendly appearance
 2. Ability to download in parallel and increase download speed
